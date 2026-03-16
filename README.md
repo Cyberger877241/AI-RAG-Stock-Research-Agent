@@ -23,8 +23,6 @@ Python, LlamaIndex, OpenAI GPT‑4.1 mini, OpenAI text‑embedding‑3‑small
 
 ## Example Workflow
 
-<img src="https://i.ytimg.com/vi/JOP-FaPXIps/maxresdefault.jpg" alt="Workflow Example" width="600">
-
 This diagram shows how the agent processes filings, embeds content, performs semantic retrieval, and generates risk scores.
 
 ---
