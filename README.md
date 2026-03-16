@@ -1,7 +1,6 @@
 # AI RAG Stock Research Agent
 
-https://i.ytimg.com/vi/JOP-FaPXIps/maxresdefault.jpg
-
+![AI RAG Overview](https://i.ytimg.com/vi/JOP-FaPXIps/maxresdefault.jpg)
 A **Python-based Retrieval-Augmented Generation (RAG) agent** for automated financial risk analysis of SEC 10-K filings. This agent processes **20GB+ of Alphabet Inc. filings**, embeds each section with **OpenAI’s text-embedding-3-small**, and performs **semantic search via LlamaIndex**. Using a **ReAct workflow with GPT-4.1 mini**, it produces **structured, evidence-backed risk scores (1–5)** across multiple risk categories, including financial, operational, regulatory, and macroeconomic exposures.
 
 ## Key Features
